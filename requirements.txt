@@ -1,0 +1,14 @@
+phidata
+openai
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+exa_py
+lancedb
+tantivy
+pypdf
+sqlalchemy

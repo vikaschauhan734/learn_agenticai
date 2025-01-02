@@ -32,6 +32,7 @@ finance_agent = Agent(
 
 # Multi AI Agent
 multi_ai_agent = Agent(
+    model=Groq(id="llama-3.1-70b-versatile"),
     team=[web_search_agent, finance_agent],
     instructions=["Always include sources", "Use tables to display the data"],
     show_tool_calls=True,

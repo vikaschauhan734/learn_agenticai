@@ -12,3 +12,6 @@ lancedb
 tantivy
 pypdf
 sqlalchemy
+pgvector
+psycopg[binary]
+pypdf

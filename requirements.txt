@@ -15,3 +15,5 @@ sqlalchemy
 pgvector
 psycopg[binary]
 pypdf
+newspaper4k
+lxml_html_clean

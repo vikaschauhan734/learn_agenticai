@@ -17,3 +17,5 @@ psycopg[binary]
 pypdf
 newspaper4k
 lxml_html_clean
+streamlit
+google-generativeai
